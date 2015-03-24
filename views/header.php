@@ -1,0 +1,2 @@
+<h2><span class="dashicons dashicons-groups" style="font-size: 36px; width: 36px; height: 36px;"></span> WordPress Additional Logins</h2>
+<p>Plugin by <a href="http://niksudan.com">Nik Sudan</a> | <a href="https://wordpress.org/plugins/wp-additional-logins">View on WordPress</a> | <a href="https://github.com/NikSudan/wp-additional-logins">View on GitHub</a> | Version 1.0.0</p>
